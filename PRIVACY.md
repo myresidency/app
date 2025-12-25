@@ -1,15 +1,17 @@
 # Privacy Policy
 
-**Effective Date**: December 23, 2025  
+**Effective Date**: December 25, 2025  
 **Version**: 1.0
 
 ## 1. Introduction
 
-Welcome to MyResidency. We respect your privacy and are committed to protecting your personal data. This privacy policy explains how we collect, use, and safeguard your information when you use our mobile application.
+Welcome to My Residency. We respect your privacy and are committed to protecting it. This privacy policy explains how your information is handled when you use our mobile application.
 
-## 2. Information We Collect
+We do not collect, transmit, or sell personal data. All information you enter stays on your device and is processed locally. You can remove or delete this data at any time.
 
-We collect and process the following types of information:
+## 2. Information Stored on Your Device
+
+The app allows you to store and manage the following types of information locally on your device:
 
 ### Personal Information
 - Name, contact details, nationality, and residency information you provide during setup
@@ -26,37 +28,29 @@ We collect and process the following types of information:
 - Task completion status, due dates, priorities
 - Residency application progress tracking
 
-### Usage Data
-- Feature usage patterns, screen views (anonymized)
-- App interaction patterns
+## 3. How Your Information Is Used
 
-### Device Information
-- Device model, OS version, app version
-- Information needed for compatibility and technical support
-
-## 3. How We Use Your Information
-
-We use your information to:
+Your information is used locally on your device to:
 
 - Provide and maintain our residency tracking services
 - Send you important notifications and reminders
 - Generate reports and statistics about your progress
-- Improve and optimize app performance and user experience
-- Provide customer support when requested
-- Ensure data security and prevent fraud and unauthorized access
+- Generate reports and statistics about your progress
+- Provide support when you reach out
+- Maintain app security and integrity
 
 ## 4. Data Storage and Security
 
-**Local Storage**: All your data is stored locally on your device. We do not transmit your personal information to external servers unless you explicitly choose to create backups.
+**Local Storage**: All your data is stored locally on your device. We do not transmit your personal information to external servers.
 
 **Security Measures**: We implement industry-standard security measures to protect your data, including:
 - Encrypted local storage
-- Secure backup options
-- Regular security updates
+- Encrypted backup files you create on your device
+- Regular security updates when available
 
 ## 5. Data Retention
 
-Your data remains on your device until you choose to delete it or uninstall the app. If you create backups, those are retained according to your chosen backup provider's retention policies (e.g., Google Drive, iCloud).
+Your data remains on your device until you choose to delete it or uninstall the app. If you export or share backups, those files are managed by the destination you choose.
 
 We recommend reviewing your data periodically and deleting information you no longer need.
 
@@ -73,18 +67,11 @@ You have the right to:
 
 ## 7. Third-Party Services
 
-Our app may integrate with third-party services for:
-
-- **Cloud Storage Providers**: Only if you enable backup features (e.g., Google Drive, iCloud)
-- **RSS Feed Providers**: For immigration news content
-- **Platform Services**: Android/iOS platform services for notifications
-- **Analytics**: Anonymized usage analytics to improve the app
-
-We do not share your personal information with third parties for marketing purposes.
+We do not use analytics or advertising SDKs. The app may open external links (for example, government sites or news sources) in your browser. Those services have their own privacy policies. We do not share your data with third parties.
 
 ## 8. Children's Privacy
 
-Our app is not intended for users under the age of 18. We do not knowingly collect personal information from children.
+Our app does not collect any personal information from any users, including children. It can be used by anyone interested in residency tracking.
 
 ## 9. Changes to This Policy
 
@@ -97,7 +84,7 @@ Continued use of the app after changes constitutes acceptance of the updated pol
 
 ## 10. International Data Transfers
 
-Since all data is stored locally on your device, there are typically no international data transfers. If you choose to use cloud backup services, data may be transferred according to your cloud provider's policies.
+Since all data is stored locally on your device, there are no international data transfers.
 
 ## 11. Data Protection Officer
 
@@ -124,7 +111,7 @@ To exercise these rights, please contact us using the methods above.
 ## 14. CCPA Compliance (California Users)
 
 If you are a California resident, you have rights under CCPA:
-- Right to know what personal information is collected
+- Right to know what personal information is collected (we do not collect any)
 - Right to know if personal information is sold or disclosed
 - Right to opt-out of the sale of personal information
 - Right to deletion
@@ -134,7 +121,6 @@ If you are a California resident, you have rights under CCPA:
 
 ---
 
-**Last Updated**: December 23, 2025  
+**Last Updated**: December 25, 2025  
 **Version**: 1.0  
-**Effective Date**: December 23, 2025
-
+**Effective Date**: December 25, 2025

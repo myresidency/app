@@ -5,11 +5,11 @@
 
 ## 1. Acceptance of Terms
 
-By downloading, installing, or using the MyResidency mobile application ("the App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.
+By downloading, installing, or using the My Residency mobile application ("the App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.
 
 ## 2. Description of Service
 
-MyResidency is a mobile application designed to help users track and manage their residency application processes, documents, and travel requirements. The App provides:
+My Residency is a mobile application designed to help users track and manage their residency application processes, documents, and travel requirements. The App provides:
 
 - Residency application tracking and checklists
 - Document management and organization
@@ -56,7 +56,7 @@ We make no guarantees regarding:
 
 ## 5. Limitation of Liability
 
-To the maximum extent permitted by applicable law, MyResidency and its developers, affiliates, and partners shall not be liable for any damages arising from:
+To the maximum extent permitted by applicable law, My Residency and its developers, affiliates, and partners shall not be liable for any damages arising from:
 
 - Use or inability to use the App
 - Loss, corruption, or unauthorized access to data
@@ -70,18 +70,18 @@ You use the App at your own risk.
 
 ## 6. User Data and Privacy
 
-Your use of the App is also governed by our [Privacy Policy](./PRIVACY.md). By using the App, you consent to the collection and use of information as described in the Privacy Policy.
+Your use of the App is also governed by our [Privacy Policy](https://github.com/myresidency/app/wiki/Privacy-Policy). By using the App, you acknowledge how information is stored and used locally on your device as described in the Privacy Policy.
 
 Key points:
 - Your data is stored locally on your device
-- We do not transmit your personal information to external servers without your explicit consent
+- We do not transmit your personal information to external servers
 - You have full control over your data, including the ability to export and delete it
 
 ## 7. Intellectual Property
 
 ### 7.1 Ownership
 
-All App content, design, functionality, features, and trademarks are owned by MyResidency and are protected by international copyright, trademark, patent, trade secret, and other intellectual property laws.
+All App content, design, functionality, features, and trademarks are owned by My Residency and are protected by international copyright, trademark, patent, trade secret, and other intellectual property laws.
 
 ### 7.2 License
 
@@ -141,7 +141,7 @@ If any provision of these Terms is found to be unenforceable or invalid, that pr
 
 ## 13. Entire Agreement
 
-These Terms, together with the Privacy Policy, constitute the entire agreement between you and MyResidency regarding the use of the App.
+These Terms, together with the Privacy Policy, constitute the entire agreement between you and My Residency regarding the use of the App.
 
 ## 14. No Waiver
 
@@ -174,4 +174,3 @@ By using the App, you acknowledge that you have read, understood, and agree to b
 ---
 
 *These Terms of Service are available in the app and at our GitHub repository at all times.*
-
